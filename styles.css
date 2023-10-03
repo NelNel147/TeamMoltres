@@ -85,11 +85,7 @@ td, th {
 tr:nth-child(even) {
   background-color: #dddddd;
 }
-* {
-  margin: 0px;
-  padding: 0;
-  box-sizing: border-box;
-}
+
 .submit {
   border: 0px;
   border-radius: 4px;
