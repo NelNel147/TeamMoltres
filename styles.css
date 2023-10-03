@@ -15,7 +15,7 @@
 
 .header {
 	padding-top: 50px;
-	color: red;
+	color: yellow;
   text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 	font-size: 20px;
 	text-align: center;
@@ -30,8 +30,8 @@ footer {
    width: 100%;
   text-align: center;
   padding: 20px;
-  background-color: red;
-  color: whitesmoke;
+  background-color: black;
+  color: yellow;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -42,7 +42,7 @@ footer {
 
 .topnav a {
   float: left;
-  color: rgb(247, 216, 39);
+  color: yellow;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -55,7 +55,7 @@ footer {
 }
 
 .topnav a.active {
-  color: red;
+  color: yellow;
 } 
 
 img {
