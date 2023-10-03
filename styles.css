@@ -85,3 +85,41 @@ td, th {
 tr:nth-child(even) {
   background-color: #dddddd;
 }
+* {
+  margin: 0px;
+  padding: 0;
+  box-sizing: border-box;
+}
+.submit {
+  border: 0px;
+  border-radius: 4px;
+  background-color:red;
+width: 100%;
+color: white}
+
+input, textarea{
+  border: 1px solid #ccc;
+   width: 100%;
+border-radius: 2px;
+font-size: smaller;
+}
+h1 {font-size: medium;
+margin-left:5%; margin-right: 5%;
+}
+p {
+  
+  margin-left: 5%; margin-right: 5%; small;
+}
+.contact {
+margin-left: 5%;
+margin-right: 5%;
+  width: 90%;
+  border-radius: 5px;
+  background-color: rgb(245, 231, 149);
+  padding: 20px;
+  font-size: small;
+}
+input {padding: 2px;}
+section {
+  margin: auto;
+}
