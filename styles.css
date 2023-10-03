@@ -118,7 +118,6 @@ margin-right: 5%;
 input {
   padding: 2px;
 }
-
-section {
-  margin: auto;
+.submit, input, .contact, p, h1, input, textarea {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
