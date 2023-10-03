@@ -15,7 +15,8 @@
 
 .header {
 	padding-top: 50px;
-	color: rgb(239, 212, 62);
+	color: red;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 	font-size: 20px;
 	text-align: center;
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
