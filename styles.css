@@ -5,13 +5,17 @@
 }
 
 .image {
-	background-image: url(https://i.pinimg.com/originals/db/7a/52/db7a52c1e598a50fc52301c77f725da3.jpg);
-	height: 250px;
+	background-image: url(/images/flame\ background\ 2.webp);
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: bottom;
+  background-color: black;
 }
 
 .header {
 	padding-top: 50px;
-	color: black;
+	color: rgb(239, 212, 62);
 	font-size: 20px;
 	text-align: center;
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
@@ -37,7 +41,7 @@ footer {
 
 .topnav a {
   float: left;
-  color: black;
+  color: rgb(247, 216, 39);
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -46,7 +50,7 @@ footer {
 }
 
 .topnav a:hover {
-  color: yellow;
+  color: white;
 }
 
 .topnav a.active {
