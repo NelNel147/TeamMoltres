@@ -1,0 +1,49 @@
+				GROUP PROJECT GUIDE
+
+
+HTML
+
+table
+ul/ol
+video
+img
+div
+nav
+header
+footer
+section
+a
+p
+html
+link
+head
+form
+meta
+button
+favicon
+comments
+
+
+
+CSS
+
+padding
+margin
+float
+display inline or block
+align
+navigation bar
+backgrounds
+borders
+tables
+lists
+forms
+shadows
+hover
+gradients
+fonts
+text
+height/width
+box model
+selectors
+max-width
