@@ -42,7 +42,7 @@ footer {
 
 .topnav a {
   float: left;
-  color: yellow;
+  color: red;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -72,16 +72,28 @@ html {
 }
 
 .about {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: medium;
+}
+
+.Service {
+  font-size: medium;
 }
 
 table {
-  font-family: arial, sans-serif;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   border-collapse: collapse;
   width: 100%;
 }
 
-td, th {
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  background-color: orange;
+}
+
+td {
   border: 1px solid #dddddd;
   text-align: left;
   padding: 8px;
