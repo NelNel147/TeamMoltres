@@ -24,9 +24,9 @@
 }
 
 footer {
-  position: relative;
+  /* position: relative;
    left: 0;
-   bottom: 0;
+   bottom: 0; */
    height: 50px;
    width: 100%;
   text-align: center;
@@ -34,6 +34,7 @@ footer {
   background-color: black;
   color: yellow;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  clear: left;
 }
 
 .topnav {
@@ -84,7 +85,8 @@ html {
 table {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   border-collapse: collapse;
-  width: 100%;
+  width: 50%; 
+  float: left;
 }
 
 th {
@@ -139,6 +141,5 @@ input {
 .submit, input, .contact, p, h1, input, textarea {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-.hours{
-width: 50%; height: 50%;
-}
+
+
