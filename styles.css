@@ -37,7 +37,7 @@ footer {
   clear: left;
 }
 
-/*.topnav {
+.topnav {
   margin: auto;
   width: 50%;
 }
@@ -60,7 +60,7 @@ a:hover {
 
 .topnav a.active {
   color: yellow;
-}*/ 
+}
 
 img {
   float: left;
