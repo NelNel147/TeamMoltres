@@ -41,7 +41,9 @@ footer {
   margin: auto;
   width: 50%;
 }
-
+a:hover {
+  color: yellow
+}
 .topnav a {
   float: left;
   color: red;
