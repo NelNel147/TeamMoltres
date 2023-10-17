@@ -294,3 +294,21 @@ h3 {
   border: 1px grey solid;
   box-shadow: 3px 3px 5px grey;
 }
+
+.back-to-top {
+  width: 100px;
+  border-radius: 20px;
+  margin-left: 30px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 12px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 30px;
+}
+
+.hours-table {
+  float: left;
+    margin-left: 30px;
+    min-width: 200px;
+     margin-right: 20px;
+  }
