@@ -289,8 +289,23 @@ margin-left: 30px;
 }
 
 .our-store {
-  display: inline;
+  display: inline-block;
+  width: 30%;
 }
 .hours-table {
+  display: inline-block;
+  margin-left: 5px;
   
+  
+}
+
+.back-to-top {
+  width: 100px;
+  border-radius: 20px;
+  margin-left: 30px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 12px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 30px;
 }
