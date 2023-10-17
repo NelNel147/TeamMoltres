@@ -97,9 +97,10 @@ th {
   border: 1px solid #dddddd;
   text-align: left;
   padding: 8px;
-  background-color: orange;
+  background-color: rgb(185, 13, 13);
   border-style: hidden!important;
   margin-left: 2px;
+  color: white;
 }
 
 td {
@@ -258,4 +259,14 @@ margin-left: 30pt;
   
   height: 250px;
   background-position: center bottom;
+}
+
+.red{
+  background-color: rgb(180, 89, 9);
+  color: white;
+}
+
+.blk-wht {
+  background-color: black;
+  color: white;
 }
