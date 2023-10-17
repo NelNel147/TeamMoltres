@@ -36,6 +36,7 @@ footer {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   clear: left;
   display: block;
+  margin-top: 200px;
 }
 
 .topnav {
@@ -79,7 +80,6 @@ html {
 .about {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: medium;
-  margin-left:
 }
 
 .Service {
