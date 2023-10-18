@@ -415,4 +415,8 @@ background-color: rgba(237, 247, 98, 0.413);
     clear: both;
     display: table;
   }
+
+#desc-pg {
+  font-family: 'Josefin Slab', serif;
+}
   
