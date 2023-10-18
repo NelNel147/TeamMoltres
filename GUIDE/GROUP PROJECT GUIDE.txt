@@ -1,49 +1,49 @@
-				GROUP PROJECT GUIDE
+				GROUP PROJECT GUIDE CHECKLIST
 
 
 HTML
 
-table
-ul/ol
-video
-img
-div
-nav
-header
-footer
-section
-a
-p
-html
-link
-head
-form
-meta
-button
-favicon
-comments
+table [DONE]
+ul/ol [DONE]
+video [DONE]
+img [DONE]
+div [DONE]
+nav [DONE]
+header [DONE]
+footer [DONE]
+section [DONE]
+a [DONE]
+p [DONE]
+html [DONE]
+link [DONE]
+head [DONE]
+form [DONE]
+meta [DONE]
+button [DONE]
+favicon [DONE]
+comments [DONE]
 
 
 
 CSS
 
-padding
-margin
-float
-display inline or block
-align
-navigation bar
-backgrounds
-borders
-tables
-lists
-forms
-shadows
+padding [DONE]
+margin [DONE]
+float [DONE]
+display inline or block [DONE]
+align [DONE]
+navigation bar [DONE]
+backgrounds [DONE]
+borders [DONE]
+tables [DONE]
+lists [DONE]
+forms [DONE]
+shadows [DONE]
 hover
 gradients
-fonts
-text
-height/width
-box model
-selectors
-max-width
+fonts [DONE]
+text [DONE]
+height/width [DONE]
+box model [DONE]
+selectors [DONE]
+max-width [DONE]
