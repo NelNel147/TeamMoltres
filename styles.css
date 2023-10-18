@@ -36,7 +36,7 @@ footer {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   clear: left;
   display: block;
-  margin-top: 200px;
+  margin-top: 20px;
 }
 
 .topnav {
@@ -279,14 +279,15 @@ margin-left: 30px;
 }
 
 .red{
-  background-color: rgb(180, 89, 9);
-  color: white;
+  background-color: red;
+  color: black;
 }
 
 .blk-wht {
-  background-color: black;
-  color: white;
+  background-color: rgb(185, 13, 13);
+  color: black;
 }
+
 h3 {
   margin-left: 31px;
 }
@@ -306,9 +307,26 @@ h3 {
   margin-top: 30px;
 }
 
+
+.our-store {
+  height: 238px ;
+}
+
+.yellow {
+background-color: rgba(237, 247, 98, 0.413);
+}
+
+.hours-section {
+  margin-bottom: 10px;
+}
+.days {
+  background-color: black;
+}
+
 .hours-table {
   float: left;
     margin-left: 30px;
     min-width: 200px;
      margin-right: 20px;
   }
+
