@@ -39,7 +39,7 @@ tables [DONE]
 lists [DONE]
 forms [DONE]
 shadows [DONE]
-hover
+hover [DONE]
 gradients
 fonts [DONE]
 text [DONE]
