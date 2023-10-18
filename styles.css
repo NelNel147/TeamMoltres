@@ -404,4 +404,15 @@ background-color: rgba(237, 247, 98, 0.413);
     margin-top: 5pt;
   }
 
+  .column {
+    float: left;
+    width: 24.99%;
+    margin: auto;
+  }
+  
+    .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
   
