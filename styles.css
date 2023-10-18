@@ -105,7 +105,7 @@ th {
 }
 
 td {
-  border: 1px solid #dddddd;
+  border: px solid #dddddd;
   text-align: left;
   padding: 8px;
 }
@@ -288,12 +288,12 @@ margin-left: 30px;
   color: black;
 }
 
-.hours-table {
-float: left;
-  margin-left: 30px;
-  min-width: 200px;
-   margin-right: 20px;
- 
+h3 {
+  margin-left: 31px;
+}
+.border{
+  border: 1px grey solid;
+  box-shadow: 3px 3px 5px grey;
 }
 
 .back-to-top {
@@ -306,6 +306,7 @@ float: left;
   padding-bottom: 10px;
   margin-top: 30px;
 }
+
 
 .our-store {
   height: 238px ;
@@ -321,3 +322,11 @@ background-color: rgba(237, 247, 98, 0.413);
 .days {
   background-color: black;
 }
+
+.hours-table {
+  float: left;
+    margin-left: 30px;
+    min-width: 200px;
+     margin-right: 20px;
+  }
+
