@@ -343,3 +343,65 @@ background-color: rgba(237, 247, 98, 0.413);
   .contact-paragraph {
     font-family: 'Josefin Slab', serif;
   }
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 200px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    border-radius: 10px;
+    background-color: #000;
+  
+  }
+  
+  .title {
+    color: rgb(185, 63, 63);
+    font-size: 14px;
+    
+  }
+  
+  .contact-button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: black;
+    background-color: red;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    
+    
+  }
+  
+  .icons {
+    text-decoration: none;
+    font-size: 22px;
+    color: red;
+  }
+  
+
+
+  .card-img {
+    width: 180px;
+    margin: 10px;
+    border-radius: 10px;
+  }
+  .contact-button:hover, a:hover {
+    opacity: 0.7;
+  }
+  .card-name {
+    color: red;
+    margin: auto;
+    font-size: larger;
+  }
+
+  .school {
+    color: rgb(185, 63, 63);
+    margin-top: 5pt;
+  }
+
+  
