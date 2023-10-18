@@ -128,10 +128,10 @@ border-radius: 2px;
 font-size: smaller;
 }
 h1 {font-size: medium;
-margin-left:5%; margin-right: 5%;
+margin-left:30px;
 }
 p {
-  margin-left: 5%; margin-right: 5%; font-size: small;
+  margin-left: 30px; margin-right: 30px; font-size: small;
 }
 .contact {
 margin-left: 5%;
