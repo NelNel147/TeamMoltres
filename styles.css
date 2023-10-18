@@ -86,6 +86,7 @@ html {
 
 .Service {
   font-size: medium;
+  font-family: 'Josefin Slab', serif;
 }
 
 table {
@@ -313,6 +314,7 @@ h3 {
 
 .our-store {
   height: 238px ;
+  font-family: 'Josefin Slab', serif;
 }
 
 .yellow {
@@ -334,3 +336,6 @@ background-color: rgba(237, 247, 98, 0.413);
     box-shadow: 7px 7px 7px grey;
   }
 
+  .contact-paragraph {
+    font-family: 'Josefin Slab', serif;
+  }
