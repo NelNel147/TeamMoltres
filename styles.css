@@ -464,3 +464,6 @@ background-color: rgba(237, 247, 98, 0.413);
   font-family: 'Josefin Slab', serif;
 }
   
+label {
+  font-size: larger;
+}
