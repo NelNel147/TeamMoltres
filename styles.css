@@ -13,7 +13,6 @@
   background-size: 100%;
   background-position: bottom;
   background-color: black;
-
 }
 
 .header {
@@ -31,14 +30,14 @@ footer {
    bottom: 0; */
    height: 50px;
    width: 100%;
-  text-align: center;
-  padding: 20px;
-  background-color: black;
-  color: yellow;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  clear: left;
-  display: block;
-  margin-top: 20px;
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+    color: yellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    clear: left;
+    display: block;
+    margin-top: 20px;
 }
 
 .topnav {
@@ -164,6 +163,7 @@ p {
 
 input {
   padding: 2px;
+  height: 35px;
 }
 
 .submit, input, .contact, p, h1, input, textarea {
