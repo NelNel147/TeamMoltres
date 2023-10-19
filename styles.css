@@ -89,6 +89,14 @@ html {
   font-family: 'Josefin Slab', serif;
 }
 
+.happen {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#services {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 table {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   border-collapse: collapse;
@@ -284,6 +292,7 @@ float: left;
 }
 .aboutus {
   margin-left: 30px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .red{
