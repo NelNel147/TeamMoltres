@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&family=Pixelify+Sans&family=Share+Tech+Mono&family=Taviraj:wght@600&display=swap');
 
 * {
   margin: 0;
@@ -21,23 +21,24 @@
   text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 	font-size: 20px;
 	text-align: center;
-  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  font-family: 'Taviraj', serif;
 }
 
 footer {
   /* position: relative;
    left: 0;
    bottom: 0; */
-   height: 50px;
+   height: 70px;
    width: 100%;
     text-align: center;
-    padding: 20px;
+    padding: 15px;
     background-color: black;
     color: yellow;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Taviraj', serif;
     clear: left;
     display: block;
     margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .topnav {
@@ -56,7 +57,7 @@ a:hover {
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
-  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: 'Taviraj', serif;
 }
 
 .topnav a:hover {
@@ -73,7 +74,7 @@ img {
 }
 
 body {
-  background-color: whitesmoke;
+  background-color: rgb(225, 227, 189);
 }
 
 html {
@@ -90,16 +91,20 @@ html {
   font-family: 'Josefin Slab', serif;
 }
 
+#services {
+  color: rgb(179, 37, 5);
+}
 .happen {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: 'Taviraj', serif;
+  color: rgb(179, 37, 5);
 }
 
 #services {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: 'Taviraj', serif;
 }
 
 table {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: 'Taviraj', serif;
   border-collapse: collapse;
   width: 50%; 
   margin-left: auto;
@@ -129,9 +134,10 @@ tr:nth-child(even) {
 .submit {
   border: 5px;
   border-radius: 4px;
-  background-color:red;
+  background-color:black;
   width: 100%;
-  color: white
+  color: white;
+  margin-top: 20px;
 }
 
 input, textarea{
@@ -144,6 +150,7 @@ input, textarea{
 h1 {
   font-size: medium;
   margin-left:30px;
+  color: rgb(179, 37, 5);
 }
 
 p {
@@ -156,7 +163,7 @@ p {
   margin-right: 5%;
   width: 90%;
   border-radius: 5px;
-  background-color: rgb(245, 231, 149);
+  background-color: rgb(229, 146, 3);
   padding: 20px;
   font-size: small;
 }
@@ -167,7 +174,7 @@ input {
 }
 
 .submit, input, .contact, p, h1, input, textarea {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: 'Taviraj', serif;
 }
 
 .submit:hover {
@@ -230,7 +237,7 @@ a {
   color:red
 }
 
-.font { font-size: smaller; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+.font { font-size: smaller; font-family: 'Taviraj', serif;
 
 }
 
@@ -244,10 +251,11 @@ a {
 }
 
 .get-in-touch {
-  font-size: 20px;
+  font-size: 40px;
   width: fit-content;
   margin: auto;
   text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  font-family: 'Cinzel Decorative', serif;
 }
 
 .just-in-case {
@@ -313,7 +321,8 @@ li {
 
 .aboutus {
   margin-left: 30px;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: 'Taviraj', serif;
+  color: rgb(179, 37, 5);
 }
 
 .red {
@@ -339,7 +348,7 @@ h3 {
   width: 100px;
   border-radius: 20px;
   margin-left: 30px;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: 'Taviraj', serif;
   font-size: 12px;
   padding-top: 10px;
   padding-bottom: 10px;
