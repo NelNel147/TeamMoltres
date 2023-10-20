@@ -242,7 +242,7 @@ a {
 }
 
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/cutie-pie-moltres.png), url(/images/flame\ background\ 2.webp); 
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/cutie-pie-moltres.png), url(images/flame\ background\ 2.webp); 
   background-repeat: no-repeat; 
   background-size: cover, 250px;
   height: 250px;
