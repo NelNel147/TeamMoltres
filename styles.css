@@ -84,15 +84,17 @@ html {
 .about {
   font-family: 'Josefin Slab', serif;
   font-size: medium;
+  color: white;
 }
 
 .Service {
   font-size: medium;
   font-family: 'Josefin Slab', serif;
+  color: white;
 }
 
 #services {
-  color: rgb(179, 37, 5);
+  color:white;
 }
 .happen {
   font-family: 'Taviraj', serif;
@@ -115,7 +117,7 @@ th {
   border: 1px solid #dddddd;
   text-align: left;
   padding: 8px;
-  background-color: rgb(185, 13, 13);
+  background-color: black;
   border-style: hidden!important;
   margin-left: 2px;
   color: white;
@@ -125,11 +127,17 @@ td {
   border: px solid #dddddd;
   text-align: left;
   padding: 8px;
+  background-color: rgb(147, 44, 0);
+  color: white;
 }
 
 tr:nth-child(even) {
   background-color: #dddddd;
 }
+
+.yellow {
+  background-color: rgb(207, 76, 0);
+  }
 
 .submit {
   border: 5px;
@@ -198,8 +206,8 @@ button {
   outline: 0;
   display: inline-block;
   padding: 8px;
-  color: white;
-  background-color: #000;
+  color: black;
+  background-color: red;
   text-align: center;
   cursor: pointer;
   width: 100%;
@@ -305,7 +313,8 @@ li {
 }
 
 .gaps {
-  background-color: rgba(237, 247, 98, 0.413);
+  background-image: linear-gradient(rgb(126, 92, 08), rgb(180, 61, 10), red)
+ 
 }
 
 .video {
@@ -322,7 +331,7 @@ li {
 .aboutus {
   margin-left: 30px;
   font-family: 'Taviraj', serif;
-  color: rgb(179, 37, 5);
+  color: white;
 }
 
 .red {
@@ -340,8 +349,8 @@ h3 {
 }
 
 .border {
-  border: 1px grey solid;
-  box-shadow: 3px 3px 5px grey;
+  border: 1px black solid;
+  box-shadow: 3px 3px 5px black;
 }
 
 .back-to-top {
@@ -359,10 +368,6 @@ h3 {
 .our-store {
   height: 238px ;
   font-family: 'Josefin Slab', serif;
-}
-
-.yellow {
-background-color: rgba(237, 247, 98, 0.413);
 }
 
 .hours-section {
@@ -467,3 +472,12 @@ background-color: rgba(237, 247, 98, 0.413);
 label {
   font-size: larger;
 }
+
+.bottom-services {
+  background-image: linear-gradient(red, black);
+}
+
+.index-body {
+  background-color: black;
+}
+
