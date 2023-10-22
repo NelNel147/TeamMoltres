@@ -176,6 +176,10 @@ p {
   font-size: small;
 }
 
+#email {
+  color: white;
+}
+
 input {
   padding: 2px;
   height: 35px;
@@ -388,6 +392,7 @@ h3 {
 
   .contact-paragraph {
     font-family: 'Josefin Slab', serif;
+    color: white;
   }
 
   .card {
@@ -481,3 +486,14 @@ label {
   background-color: black;
 }
 
+.contact-body {
+  background-image: linear-gradient(#a96c02, black);
+}
+
+.leadership-body {
+  background-image: linear-gradient(black, black, black, rgb(67, 1, 1), rgb(135, 0, 0), red, orange, rgb(255, 196, 0));
+}
+
+#desc-pg {
+  color: rgb(255, 162, 0);
+}
