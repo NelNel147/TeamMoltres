@@ -286,6 +286,7 @@ ul {
 li {
   display: inline;
   margin: 15px;
+  text-shadow: 2px 2px black;
 }
 
 .link-img {
@@ -339,12 +340,12 @@ li {
 }
 
 .red {
-  background-color: red;
+  background-color: rgb(131, 58, 42);
   color: black;
 }
 
 .blk-wht {
-  background-color: rgb(185, 13, 13);
+  background-color: rgb(133, 102, 55);
   color: black;
 }
 
@@ -372,6 +373,8 @@ h3 {
 .our-store {
   height: 238px ;
   font-family: 'Josefin Slab', serif;
+  font-size: large;
+  color: rgb(41, 31, 16);
 }
 
 .hours-section {
@@ -379,7 +382,12 @@ h3 {
 }
 
 .days {
-  background-color: black;
+  background-color: rgb(36, 37, 32);
+  color: red;
+}
+
+.check {
+  color: rgb(239, 229, 205);
 }
 
 .hours-table {
@@ -387,7 +395,7 @@ h3 {
     margin-left: 30px;
     min-width: 200px;
      margin-right: 20px;
-    box-shadow: 7px 7px 7px grey;
+    box-shadow: 7px 7px 7px rgb(36, 17, 17);
   }
 
   .contact-paragraph {
@@ -496,4 +504,8 @@ label {
 
 #desc-pg {
   color: rgb(255, 162, 0);
+}
+
+.hours-body {
+  background-image: linear-gradient(black, black, #c5876d, #6f2917, black);
 }
